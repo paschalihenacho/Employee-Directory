@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Employee-Directory/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Employee-Directory/static/js/main.da53311c.chunk.js",
-    "main.js.map": "/Employee-Directory/static/js/main.da53311c.chunk.js.map",
+    "main.css": "/Employee-Directory/static/css/main.29f33316.chunk.css",
+    "main.js": "/Employee-Directory/static/js/main.14b1d8d7.chunk.js",
+    "main.js.map": "/Employee-Directory/static/js/main.14b1d8d7.chunk.js.map",
     "runtime-main.js": "/Employee-Directory/static/js/runtime-main.965eecad.js",
     "runtime-main.js.map": "/Employee-Directory/static/js/runtime-main.965eecad.js.map",
-    "static/js/2.8e1b47c6.chunk.js": "/Employee-Directory/static/js/2.8e1b47c6.chunk.js",
-    "static/js/2.8e1b47c6.chunk.js.map": "/Employee-Directory/static/js/2.8e1b47c6.chunk.js.map",
+    "static/css/2.11829350.chunk.css": "/Employee-Directory/static/css/2.11829350.chunk.css",
+    "static/js/2.70bd5aff.chunk.js": "/Employee-Directory/static/js/2.70bd5aff.chunk.js",
+    "static/js/2.70bd5aff.chunk.js.map": "/Employee-Directory/static/js/2.70bd5aff.chunk.js.map",
     "index.html": "/Employee-Directory/index.html",
-    "precache-manifest.99728b4e199e80fa5c31f55643f6c804.js": "/Employee-Directory/precache-manifest.99728b4e199e80fa5c31f55643f6c804.js",
+    "precache-manifest.42faa07ed59244ea1085b85d978b3e2e.js": "/Employee-Directory/precache-manifest.42faa07ed59244ea1085b85d978b3e2e.js",
     "service-worker.js": "/Employee-Directory/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Employee-Directory/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8e1b47c6.chunk.js.LICENSE.txt": "/Employee-Directory/static/js/2.8e1b47c6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Employee-Directory/static/media/logo.5d5d9eef.svg"
+    "static/css/2.11829350.chunk.css.map": "/Employee-Directory/static/css/2.11829350.chunk.css.map",
+    "static/css/main.29f33316.chunk.css.map": "/Employee-Directory/static/css/main.29f33316.chunk.css.map",
+    "static/js/2.70bd5aff.chunk.js.LICENSE.txt": "/Employee-Directory/static/js/2.70bd5aff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.965eecad.js",
-    "static/js/2.8e1b47c6.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.da53311c.chunk.js"
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.70bd5aff.chunk.js",
+    "static/css/main.29f33316.chunk.css",
+    "static/js/main.14b1d8d7.chunk.js"
   ]
 }
